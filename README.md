@@ -1,6 +1,38 @@
-<h1 align="center">Hi , I'm Cristian Osses <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Kalmcris&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Kalmcris" 
-    bg_color=#808080/></p>
+# Hi there, I'm Cristian Osses! 👋
+
+Profile created by a **Software Engineering** student, focused on improving my developer skills.
+
+## About Me
+
+I am a computer science student from Chile 🇨🇱. I created this profile to centralize my projects and track my progress.
+
+* 🔭 I am currently a third-year student.
+* Interested in backend development and process modeling.
+* Looking forward to collaborating on open-source projects.
+* Contact me at: `cristian.osses2401@alumnos.ubiobio.cl`.
+
+## My Skills Include
+
+A collection of technologies I have worked with:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,python,git" />
+  </a>
+</p>
+
+## My Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tu-usuario-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+## Github Stats:
+
+Here you can show your contribution panel. Replace `cr-devv` with your username below.
+
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalmcris&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide=contribs,stars,commits)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalmcris&layout=compact&theme=tokyonight)
