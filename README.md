@@ -43,9 +43,9 @@ Here are some of the technologies and tools I use on a daily basis:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kalmcris&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide=contribs,stars,commits" alt="Kalmcris's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=kalmcris&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalmcris&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalmcris&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
