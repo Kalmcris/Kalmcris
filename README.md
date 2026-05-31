@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a software engineering student from Chile 🇨🇱. I created this profile to centralize my projects and track my progress.
+I'm a Computer Science Engineering student from Chile 🇨🇱. I created this profile to centralize my projects and track my progress.
 
 *  I am currently a third-year student.
 *  I’m currently diving deeper into backend development and **Cybersecurity**.
