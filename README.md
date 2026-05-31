@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Cristian Osses 👋</h1>
 
 <p align="center">
-  <i>I am a software engineering student, focused on improving my developer skills.</i>
+  <i>I am a Computer Science Engineering student, focused on improving my developer skills.</i>
 </p>
 
 ---
